@@ -5,6 +5,12 @@
     --black: #13131a;
     --bg: #010103;
     --border: .1rem solid rgba(255,255,255,.3);
+    --body-color: #E4E9F7;
+    --nav-color: #1f242d;
+    --side-nav: #010103;
+    --text-color: #FFF;
+    --search-bar: #F2F2F2;
+    --search-text: #010718;
 }
 *{
     font-family: 'Roboto' , sans-serif;
@@ -16,14 +22,6 @@
     transition: .2s linear;
 }
 /* ===== Colours ===== */
-:root{
-    --body-color: #E4E9F7;
-    --nav-color: #1f242d;
-    --side-nav: #010103;
-    --text-color: #FFF;
-    --search-bar: #F2F2F2;
-    --search-text: #010718;
-}
 
 html{
     font-size: 62.5%;
