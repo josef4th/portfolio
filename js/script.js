@@ -23,7 +23,7 @@ body.addEventListener("click" , e =>{
 });
 
 let type = new Typed('#changing-text', {
-    strings : ['Technical Web Developer', 'Junior Frontend Developer', 'Junior Digital Strategist'],
+    strings : ['Technical Web Developer', 'Frontend Developer', 'Digital Strategist'],
     typeSpeed: 50,
     backSpeed: 50,
     loop: true, 
